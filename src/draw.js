@@ -1,10 +1,10 @@
-const graph = document.querySelector("#graph");
-const height = graph.clientHeight;
-const width = graph.clientWidth;
-const o = {
-    x: width / 2,
-    y: height / 2,
-};
+// const graph = document.querySelector("#graph");
+// const height = graph.clientHeight;
+// const width = graph.clientWidth;
+// const o = {
+//     x: width / 2,
+//     y: height / 2,
+// };
 const svg = d3.select("#graph");
 // graph.setAttribute("viewBox", `0 0 100 100`);
 
